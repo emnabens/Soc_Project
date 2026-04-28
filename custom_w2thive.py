@@ -23,7 +23,7 @@ info_enabled = True
 # ========================
 # ENV CONFIG
 # ========================
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCmRCOK-8hWHVqV_arfJmP3UJSQ152KQVc")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "**********************")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 CORTEX_ID = os.getenv("CORTEX_ID", "cortex_server")
 
